@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gomaGift
 - 👀 I’m a life learner,open minded with a growth oriented mindset.
-- 🌱 I’m currently learning systems engineering at the University of Zambia 
-- 💞️ I’m looking to collaborate, learn and contribute in a wide range of projects preferebly(python projects)
+- 🌱 Final year Systems Engineering Student at th University of Zambia
+- 💞️ I’m looking to collaborate, Learning and Contribution
 - 📫 How to reach me : gomagiftk01@gmail.com /whatsapp: +260976693699
 
 <!---
