@@ -1,5 +1,4 @@
  👋 Hi, I’m @gomaGift
-- 🌱 I’m a lifelong learner, open-minded, and driven by a growth-oriented mindset.  
 - 🎓 Systems Engineering Graduate from the University of Zambia.
 - 💻 Backend Developer
 - 👀 Passionate about technology, problem-solving, and collaboration.
